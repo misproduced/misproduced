@@ -1,16 +1,20 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://discord.com/users/1439105278955094088"> <img align="center" src="https://lanyard.kyrie25.dev/api/1439105278955094088?waveColor=222&waveSpotifyColor=212121&gradient=fff&borderRadius=25px&bg=000&animatedDecoration=false&hideNameplate=false&hideTimestamp=true&hideBadges=false&hideActivity=false&hideProfile=false&showDisplayName=false&hideClan=true"/></a>
+  <br>
+  <br>
+  <a href="https://github.com/miseducations">
+    <img src="https://img.shields.io/badge/-github.com-black?style=plastic&logo=github&logoColor=white" alt="github.com" />
+  </a>
+  <a href="https://discord.com/users/1439105278955094088">
+    <img src="https://img.shields.io/badge/-discord.com-black?style=plastic&logo=discord&logoColor=white" alt="discord.com" />
+  </a>
+  <a href="https://t.me/childtheft">
+    <img src="https://img.shields.io/badge/-t.me-black?style=plastic&logo=telegram&logoColor=white" alt="t.me" />
+  </a>
+  <br>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=miseducations&color=gray&style=plastic" alt=":name" />
+  <br>
+  <br>
 
-<!--
-**miseducations/miseducations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
