@@ -8,12 +8,12 @@
   <a href="https://discord.com/users/1439105278955094088">
     <img src="https://img.shields.io/badge/-discord.com-black?style=plastic&logo=discord&logoColor=white" alt="discord.com" />
   </a>
-  <a href="https://t.me/uniquify">
+  <a href="https://t.me/childtheft">
     <img src="https://img.shields.io/badge/-t.me-black?style=plastic&logo=telegram&logoColor=white" alt="t.me" />
   </a>
   <br>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=vawnair&color=gray&style=plastic" alt=":name" />
+  <img src="https://komarev.com/ghpvc/?username=sindresorhus&color=gray&style=plastic" alt=":name" />
   <br>
   <br>
 
